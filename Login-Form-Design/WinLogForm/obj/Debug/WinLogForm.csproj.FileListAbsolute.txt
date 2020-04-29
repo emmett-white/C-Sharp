@@ -1,0 +1,7 @@
+C:\Users\Intel\Desktop\Login Form\WinLogForm\WinLogForm\bin\Debug\WinLogForm.exe
+C:\Users\Intel\Desktop\Login Form\WinLogForm\WinLogForm\bin\Debug\WinLogForm.pdb
+C:\Users\Intel\Desktop\Login Form\WinLogForm\WinLogForm\obj\Debug\WinLogForm.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Desktop\Login Form\WinLogForm\WinLogForm\obj\Debug\WinLogForm.MainForm.resources
+C:\Users\Intel\Desktop\Login Form\WinLogForm\WinLogForm\obj\Debug\WinLogForm.csproj.GenerateResource.Cache
+C:\Users\Intel\Desktop\Login Form\WinLogForm\WinLogForm\obj\Debug\WinLogForm.exe
+C:\Users\Intel\Desktop\Login Form\WinLogForm\WinLogForm\obj\Debug\WinLogForm.pdb
