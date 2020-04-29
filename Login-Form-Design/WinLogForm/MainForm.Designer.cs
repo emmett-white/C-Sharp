@@ -1,11 +1,3 @@
-﻿/*
- * Created by SharpDevelop.
- * User: Intel
- * Date: 4/29/2020
- * Time: 04:19
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
 namespace WinLogForm
 {
 	partial class MainForm
